@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/CleverOscar/DoneJS-PMO-Demo.png?branch=master)](https://travis-ci.org/CleverOscar/DoneJS-PMO-Demo)
 # place-my-order
 
 Welcome to the place-my-order DoneJS application!
